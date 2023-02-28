@@ -1,8 +1,19 @@
 ## About me
 
-_i'm studying:_
+_FRONTEND developer - ReactJS_
 
-- Frontend: `HTML5`, `CSS3`, `Javascript`, `ReactJS`
-- Backend: `NodeJS`, `SQL`
-- Version code control: ` Git & Github`
-- Tool: `VSCode`
+### Experiences:
+- `HTML 5` - *advanced* 
+- `CSS 3` - *advanced* 
+- `JAVASCRIPT` - *advanced* 
+- `ReactJS` - *median/advanced* 
+- `NodeJS` - *basic* 
+- `SQL` - *basic*
+
+Right now, I'm more focused on some **FRONTEND** projects, but I'm very interested in eventually mastering the **BACKEND.**
+
+### Languages:
+- `Portuguese` - *native*
+- `English` - *advanced*
+
+Soon, i'll post some projects and personal projects i'm developing using **ReactJS**
