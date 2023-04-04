@@ -16,5 +16,3 @@ Right now, I'm more focused on some **FRONTEND** projects, but I'm very interest
 ### Languages:
 - `Portuguese` - *native*
 - `English` - *advanced*
-
-Soon, i'll post some projects and personal projects i'm developing using **ReactJS**.
