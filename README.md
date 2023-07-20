@@ -1,18 +1,12 @@
 ## About me
 
-I've been studying development as a self-taught learner since June 2022, and I'm always eager to learn more.
+Developing projects since Jun 2022.
+At the moment i'm acting as a freelancer and improving my skills.
 
-### Experiences:
-- `HTML 5` - *advanced* 
-- `CSS 3` - *advanced* 
-- `JAVASCRIPT` - *advanced* 
-- `TYPESCRIPT` - *advanced* 
-- `React` - *median/advanced* 
-- `Node` - *basic* 
-- `SQL` - *basic*
+My skills in backend:
+Node, Express, Mongoose, MongoDB, PostgreSQL
 
-Right now, I'm more focused on some **FRONTEND** projects, but I'm very interested in eventually mastering the **BACKEND**.
+My skills in frontend:
+React, Redux, Styled Components, MUI Components, Tailwind, Bootstrap
 
-### Languages:
-- `Portuguese` - *native*
-- `English` - *advanced*
+Advanced English.
